@@ -1,0 +1,9 @@
+#IDE
+*.idea
+
+# object files
+/build
+/cmake-build-debug
+
+# macOS
+*.DS_Store
